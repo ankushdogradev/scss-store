@@ -1,0 +1,9 @@
+.gallery {
+    padding: 2rem;
+    background: red;
+
+    &__inner {
+        display: flex;
+        justify-content: center;
+    }
+}
